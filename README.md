@@ -6,7 +6,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Richard_bruh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riicky-hub)
 
-![Rick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riicky-hub&theme=blue-green)
+![Rick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riicky-hub&layout=compact)
 
 ### My Personal Tools ⚙
 #### Front-end 🎨:
