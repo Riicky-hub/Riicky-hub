@@ -1,5 +1,5 @@
 ### Hi! My name is Ricardo! 👋
-### I'm a Full-Stack C# Developer 🧑‍💻
+### I'm a Full-Stack .NET Developer 🧑‍💻
 #### Follow me on 📱
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riicky_ace/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-amorim-ferreira/)
@@ -9,7 +9,7 @@
 ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riicky-hub&layout=compact)
 
 ### My Personal Tools ⚙
-#### Back-end/DevOps 🔧:
+#### Back-end 🔧:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
