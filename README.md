@@ -1,5 +1,5 @@
 ### Hi! My name is Ricardo! 👋
-### I'm a Full-Stack .NET Developer 🧑‍💻
+### I'm a Full-Stack C# Developer 🧑‍💻
 #### Follow me on 📱
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riicky_ace/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-amorim-ferreira/)
